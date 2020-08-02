@@ -8,7 +8,7 @@ O jogo foi criado para fins didáticos no Pascalzim, então o código é livre p
 
 > Jogo funciona com cores mais apresentáveis na versão 6.0.1 do Pascalzim, pois no jogo foi utilizado um comando de cor de fundo do texto e a versão 6.0.2 ou superior não permite o uso de cores claras como LIGHTGREEN, mas só irá mudar a percepção das cores de alguns lugares.
 
-![Imagem](https://raw.githubusercontent.com/taffarel55/FlappyBird/master/Arquivos/dataflappy/left%20bitmap.bmp)
+![Imagem](https://raw.githubusercontent.com/taffarel55/FlappyBird/master/Arquivos/dataflappy/left%20bitmap.bmp){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 ## Instalação
 O jogo só funciona corretamente no Windows, para instalar o jogo execute `Arquivos/flappybird.exe`, para somente executar a versão portable, sem precisar instalar execute `Arquivos/Flappy Bird Portable.exe`.
