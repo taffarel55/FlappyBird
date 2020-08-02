@@ -14,6 +14,10 @@ O jogo foi criado para fins didáticos no Pascalzim, então o código é livre p
 
 > Jogo funciona com cores mais apresentáveis na versão 6.0.1 do Pascalzim, pois no jogo foi utilizado um comando de cor de fundo do texto e a versão 6.0.2 ou superior não permite o uso de cores claras como LIGHTGREEN, mas só irá mudar a percepção das cores de alguns lugares.
 
+
+| <img src="Arquivos/dataflappy/menu.jpg" alt="Game menu"/> | <img src="Arquivos/dataflappy/game.jpg" alt="Game"/> |
+|-----------------------------------------------------------|------------------------------------------------------|
+
 ## Instalação
 O jogo só funciona corretamente no Windows, para instalar o jogo execute [`Arquivos/flappybird.exe`](Arquivos/flappybird.exe), para somente executar a versão portable, sem precisar instalar execute [`Arquivos/Flappy Bird Portable.exe`](Arquivos/Flappy%20Bird%20Portable.exe).
 
@@ -24,6 +28,8 @@ Para ver e modificar o código, utilize este compilador: [Pzim](http://pascalzim
 ## Autores
 * Mauricio Taffarel - [taffarel55](https://github.com/taffarel55)
 * Jonathan Xavier - [JonathanXP](https://github.com/JonathanXP)
+
+##### Agradeço a Isaac Araújo por gerar as imagens deste README - [isaacpcaraujo](https://github.com/isaacpcaraujo)
 
 ## Licença
 [MIT](https://github.com/taffarel55/FlappyBird/blob/master/LICENSE)
