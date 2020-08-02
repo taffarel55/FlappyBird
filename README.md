@@ -8,7 +8,7 @@
 
 O game possui o objetivo de simular uma interface gráfica de um jogo através de movimentos dos caracteres especiais contidos na tabela ASCII para obteção de   desenhos como os canos, as bordas, o pássaro e os demais itens do mesmo.
 
-O jogo foi criado para fins didáticos no Pascalzim, então o código é livre para edição e sem licença, portanto pode ser editado e melhorado. Por favor se houver qualquer bug pode nos avisar em um dos contatos acima!
+O jogo foi criado para fins didáticos no Pascalzim, então o código é livre para edição e sem licença, portanto pode ser editado e melhorado. Por favor se houver qualquer bug pode nos avisar em um dos contatos abaixo!
 
 > Devido a linearidade do código o pássaro descreve um movimento constante em sua queda e deste modo complicando a aplicação de efeito de aceleração da gravidade.
 
