@@ -31,7 +31,5 @@ Para ver e modificar o código, utilize este compilador: [Pzim](http://pascalzim
 * Mauricio Taffarel - [taffarel55](https://github.com/taffarel55)
 * Jonathan Xavier - [JonathanXP](https://github.com/JonathanXP)
 
-##### Agradeço a Isaac Araújo por gerar as imagens deste README - [isaacpcaraujo](https://github.com/isaacpcaraujo)
-
 ## Licença
 [MIT](https://github.com/taffarel55/FlappyBird/blob/master/LICENSE)
