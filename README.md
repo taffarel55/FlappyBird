@@ -19,7 +19,7 @@ O jogo foi criado para fins didáticos no Pascalzim, então o código é livre p
 |-----------------------------------------------------------|------------------------------------------------------|
 
 ## Instalação
-O jogo só funciona corretamente no Windows, para instalar o jogo execute [`Arquivos/flappybird.exe`](Arquivos/flappybird.exe), para somente executar a versão portable, sem precisar instalar execute [`Arquivos/Flappy Bird Portable.exe`](Arquivos/Flappy%20Bird%20Portable.exe).
+O jogo só funciona corretamente no Windows ou através do [Wine](https://pt.wikipedia.org/wiki/Wine), para instalar o jogo execute [`Arquivos/flappybird.exe`](Arquivos/flappybird.exe), para somente executar a versão portable, sem precisar instalar execute [`Arquivos/Flappy Bird Portable.exe`](Arquivos/Flappy%20Bird%20Portable.exe).
 
 ## Contribuir
 Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Todas as contribuições que você fizer são muito bem vindas!
